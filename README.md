@@ -23,3 +23,7 @@ https://play.google.com/store/apps/details?id=com.wolffun.herostrike&hl=en
 ● Every stone he throws will not move towards us, but will move forward with a certain margin of error.
 6) Visual content & assets:
 ● You can make the assets yourself or buy them from outside, the quality is not so important. Our expectation from you is to reflect your experience in shader and game feeling as much as you can in this project.
+
+![3](https://user-images.githubusercontent.com/58669159/171167745-facb2a4c-0768-49bb-92d1-204b40c80d42.PNG)
+
+![4](https://user-images.githubusercontent.com/58669159/171167776-fdcc79ac-91dc-42ba-ac5b-0d93d0ffe2e4.PNG)
