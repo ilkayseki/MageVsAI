@@ -5,8 +5,7 @@ This is a task for recruitment. The task is here;
 1) Project content
 ● Single player mainly a simple TPS (Third-person shooter) mobile game. (APK file for Android devices)
 ● Example games:
- https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zoo
-ba&hl=en
+ https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zooba&hl=en
 https://play.google.com/store/apps/details?id=com.wolffun.herostrike&hl=en
 2) Map:
 ● A map with very simple objects (boxes without texture & texture, etc.). No special design is required.
